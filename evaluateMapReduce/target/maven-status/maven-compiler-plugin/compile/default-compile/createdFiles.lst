@@ -1,0 +1,9 @@
+NaturalGroupingKeyComparator.class
+CustomOutputTuple.class
+TestMapperClass.class
+CompositeKeyComparator.class
+NaturalKeyPartitioner.class
+ReducerClass.class
+TrainMapperClass.class
+CompositeKeyWritable.class
+DriverClass.class
